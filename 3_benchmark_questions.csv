@@ -1,0 +1,74 @@
+group_id,question_id,topic,user_question,expected_risk_level,expected_chunk_ids,difficulty,language
+20,Q001,career anxiety,what is career anxiety,low,C001,easy,English
+20,Q002,career anxiety,who is affected,low,C002,easy,English
+20,Q003,career anxiety,fear of failure aspect of career anxiety,low,C003,medium,English
+20,Q004,career anxiety,What external factors can intensify the fear ,low,C004,medium,English
+20,Q005,career anxiety,Why do changes in industries and technological ,low,C005,medium,English
+20,Q006,career anxiety,What specific decisions during career transitions ,low,C006,medium,English
+20,Q007,Career Anxiety,How can career anxiety appear in daily life?,Low,C002,Easy,English
+20,Q008,Career Anxiety,Why does uncertainty about stability increase career anxiety?,Low,C003,Medium,English
+20,Q009,Career Anxiety,Why are people afraid of making wrong career decisions?,Low,C004,Medium,English
+20,Q010,Career Anxiety,How does comparison with others contribute to career anxiety?,Low,C005,Medium,English
+20,Q011,Career Anxiety,How does burnout affect career decision making?,Low,C006,Medium,English
+20,Q012,Career Anxiety,How can career anxiety become useful information?,Low,C007,Medium,English
+40,Q013,Career Anxiety,What are common causes of career anxiety?,Low,C013,Easy,English
+40,Q014,Career Anxiety,Why is recognizing anxiety important?,Low,C014,Easy,English
+40,Q015,Career Anxiety,How does identifying the source of stress help reduce career anxiety?,Low,C015,Medium,English
+40,Q016,Career Anxiety,How can building a clear plan help manage career anxiety?,Low,C016,Medium,English
+40,Q017,Career Anxiety,Why are healthy habits and rest important for managing career anxiety?,Low,C017,Easy,English
+40,Q018,Career Anxiety,How can talking to trusted people help with career anxiety?,Low,C018,Easy,English
+40,Q019,Career Anxiety,What practices can help reduce stress and support career growth?,Low,C019,Medium,English
+40,Q020,Career Anxiety,When should someone seek professional guidance for career anxiety?,Low,C020,Medium,English
+20,Q021,Career Anxiety,How do career myths increase anxiety among students?,Low,C021,Medium,English
+20,Q022,Career Anxiety,Why do students fear choosing the wrong major or career?,Low,C022,Medium,English
+20,Q023,Career Anxiety,How can detailed career examples reduce career anxiety?,Low,C023,Medium,English
+20,Q024,Career Anxiety,How do non linear career paths help reduce anxiety?,Low,C024,Easy,English
+20,Q025,Career Anxiety,How can educational resources help students manage career anxiety?,Low,C025,Medium,English
+20,Q026,Career Anxiety,How does workplace pressure contribute to career anxiety?,Low,C001,Medium,English
+20,Q027,Career Anxiety,Why do employees fear failure at work?,Low,C002,Easy,English
+20,Q028,Career Anxiety,How can uncertainty about the future affect career anxiety?,Low,C003,Medium,English
+20,Q029,Career Anxiety,How can confidence building reduce career anxiety?,Low,C004,Easy,English
+20,Q030,Career Anxiety,How can stress management help reduce career anxiety?,Low,C005,Medium,English
+20,Q031,Career Anxiety,Why are support systems important for managing career anxiety?,Low,C006,Easy,English
+20,Q032,Career Anxiety,How does accepting career flexibility reduce anxiety?,Low,C007,Medium,English
+20,Q033,Career Anxiety,Why is learning new skills important for reducing career anxiety?,Low,C008,Medium,English
+20,Q034,Career Anxiety,How does work life balance support mental well being?,Low,C009,Easy,English
+20,Q035,Career Anxiety,How can professional guidance help with career anxiety?,Low,C010,Medium,English
+20,Q036,Career Anxiety,How can uncertainty about the future affect emotional health?,High,C001,Hard,English
+20,Q037,Career Anxiety,Why can workplace burnout become emotionally exhausting?,High,C002,Hard,English
+20,Q038,Career Anxiety,How does fear of professional failure increase anxiety?,High,C003,Medium,English
+20,Q039,Career Anxiety,Why does job insecurity create emotional stress?,High,C004,Medium,English
+20,Q040,Career Anxiety,How can career stress affect sleep and mental balance?,High,C005,Hard,English
+20,Q041,Career Anxiety,Why is comparing careers with others emotionally harmful?,Medium,C006,Medium,English
+20,Q042,Career Anxiety,How do unrealistic career expectations increase pressure?,Medium,C007,Medium,English
+20,Q043,Career Anxiety,When should someone seek emotional support for career anxiety?,High,C008,Hard,English
+20,Q044,Career Anxiety,What is career anxiety and how is it different from normal work stress?,Medium,C001,Medium,English
+20,Q045,Career Anxiety,How is job anxiety different from other anxiety disorders?,Medium,C002,Easy,English
+20,Q046,Career Anxiety,What areas of life are affected by career anxiety?,Medium,C003,Easy,English
+20,Q047,Career Anxiety,How can career anxiety appear in daily work life?,Medium,C004,Medium,English
+20,Q048,Career Anxiety,Why does job dissatisfaction happen?,Medium,C005,Easy,English
+20,Q049,Career Anxiety,How can career anxiety reduce productivity and work quality?,High,C006,Medium,English
+20,Q050,Career Anxiety,How does career anxiety affect workplace relationships?,Medium,C007,Medium,English
+20,Q051,Career Anxiety,What are common behavioral signs of career anxiety?,Medium,C008,Easy,English
+20,Q052,Career Anxiety,What career transitions can trigger anxiety?,Medium,C009,Easy,English
+20,Q053,Career Anxiety,How can toxic work environments increase anxiety?,High,C010,Medium,English
+20,Q054,Career Anxiety,How do workload and management pressure contribute to anxiety?,High,C011,Medium,English
+20,Q055,Career Anxiety,How can support networks help reduce career anxiety?,Low,C012,Easy,English
+20,Q056,Career Anxiety,Why is talking to co workers helpful during career stress?,Low,C013,Easy,English
+20,Q057,Career Anxiety,Why is asking for help considered positive at work?,Low,C014,Easy,English
+20,Q058,Career Anxiety,How can realistic career goals reduce anxiety?,Low,C015,Medium,English
+20,Q060,Career Anxiety,Is it bad if I do not know my exact career path right after graduation?,Low,C001,Easy,English
+20,Q061,Career Anxiety,How can I use a job I do not like to my advantage?,Low,C002,Easy,English
+20,Q062,Career Anxiety,What should I combine to choose my path after graduation?,Low,C003,Easy,English
+20,Q063,Career Anxiety,Who should I consult for career guidance?,Low,C004,Easy,English
+20,Q064,Career Anxiety,How can I access career counseling conveniently?,Low,C005,Easy,English
+20,Q065,Career Anxiety,Why should I break long term career goals into smaller steps?,Low,C006,Medium,English
+20,Q066,Career Anxiety,How do small actions help achieve larger career goals?,Low,C007,Easy,English
+20,Q067,Career Anxiety,How should I view setbacks and rejections during my job hunt?,Low,C008,Medium,English
+20,Q068,Career Anxiety,Why is interview feedback helpful?,Low,C009,Easy,English
+20,Q069,Career Anxiety,Why should I not ignore professional criticism?,Low,C010,Medium,English
+20,Q070,Career Anxiety,Who can be part of my support network?,Low,C011,Easy,English
+20,Q071,Career Anxiety,How does talking to trusted people reduce anxiety?,Low,C012,Easy,English
+20,Q072,Career Anxiety,Why is it important to celebrate small achievements?,Low,C013,Easy,English
+20,Q073,Career Anxiety,How can social media increase career anxiety?,Low,C014,Medium,English
+20,Q074,Career Anxiety,Why is LinkedIn useful for career development?,Low,C015,Easy,English

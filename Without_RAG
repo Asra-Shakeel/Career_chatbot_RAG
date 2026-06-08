@@ -1,7 +1,0 @@
-## Project Overview
-
-Career Chatbot (Without RAG) is a rule-based and dataset-driven chatbot designed to provide career guidance and answer career-related queries. Unlike Retrieval-Augmented Generation (RAG) systems, this chatbot generates responses directly from predefined datasets and programmed logic without performing external retrieval of relevant information.
-
-The chatbot helps users explore career options, understand different professions, and receive guidance based on the information available in the dataset. It also supports benchmarking and evaluation through predefined questions, ideal answers, model responses, and human evaluation data.
-
-This project was developed to compare the performance of a traditional chatbot approach with a RAG-based chatbot in terms of response quality, accuracy, relevance, and user satisfaction.

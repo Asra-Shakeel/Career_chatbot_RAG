@@ -1,32 +1,36 @@
-# Career_chatbot_RAG
-**Career Chatbot RAG**
-**Overview**
+# Career Chatbot RAG
 
-This project is a Career Guidance Chatbot based on Retrieval-Augmented Generation (RAG). It provides career-related guidance by retrieving relevant information from a dataset and generating responses.
+## Project Overview
 
-**Features**
-Career guidance and recommendations
-Dataset-based information retrieval
-Interactive chatbot interface
-RAG architecture
-**Requirements**
+Career Chatbot RAG is a Retrieval-Augmented Generation (RAG) based chatbot designed to provide career guidance and answer career-related questions using a custom dataset.
 
-Install the required libraries:
+## Dataset Files
 
-pip install -r requirements.txt
+The project uses the following CSV files:
 
-If requirements.txt is not available:
+* 1_sources.csv
+* 2_corpus_chunks.csv
+* 3_benchmark_questions.csv
+* 4_ideal_answers.csv
+* 5_risk_labels.csv
+* 6_model_responses.csv
+* 7_human_evaluation.csv
 
-pip install pandas numpy scikit-learn sentence-transformers faiss-cpu gradio
-Project Structure
-Career_chatbot_RAG/
-│
-├── app.py
-├── dataset.csv
-├── embeddings/
-├── README.md
-└── other project files
-**How to Run**
+## Main Application
+
+The chatbot application is implemented in:
+
+* app.py
+
+## Requirements
+
+Install the required Python libraries:
+
+pip install pandas gradio
+
+Install any additional libraries used in app.py if required.
+
+## Running the Project
 
 Open Command Prompt and navigate to the project folder:
 
@@ -36,16 +40,20 @@ Run the application:
 
 python app.py
 
-After running successfully, a local URL will appear:
+After successful execution, a local URL will be generated, for example:
 
-Running on local URL: http://127.0.0.1:7860
+http://127.0.0.1:7860
 
-Open the URL in your browser to use the chatbot.
+Open this URL in a web browser to interact with the chatbot.
 
-Dataset
+## Features
 
-The chatbot uses a career guidance dataset for retrieving relevant information and generating responses.
+* Career guidance chatbot
+* Retrieval-Augmented Generation (RAG)
+* Dataset-driven responses
+* Human evaluation support
+* Benchmark question testing
 
-Author
+## Author
 
 Asra Shakeel

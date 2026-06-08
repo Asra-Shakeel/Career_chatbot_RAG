@@ -1,0 +1,74 @@
+group_id,chunk_id,topic,category,risk_level,title,text,source_id,allowed_use,blocked_use,language
+20,C001,career anxiety,Mental health,low,career anxiety,Career anxiety refers to a psychological phenomenon,S001,students and professionals,none,English
+20,C002,career anxiety,Mental health,low,affected individual,It impacts individuals ,S001,students and professionals,none,English
+20,C003,career anxiety,Mental health,low,fear of failure,worry about not achieving their career goals,S001,students and professionals,none,English
+20,C004,career anxiety,Mental health,low,External factor,fear can be intensified by societal pressures comparing oneself t,S001,students and professionals,none,English
+20,C005,career anxiety,Mental health,low,Mental health,Changes in industries and technological advancements,S001,students and professionals,none,English
+20,C006,career anxiety,Mental health,low,career transition,Changing jobs shifting industries or pursuing ,S001,students and professionals,none,English
+20,C002,Career Anxiety,Mental Health,Low,Examples of Career Anxiety,Career anxiety may appear as overthinking career decisions fear of job applications losing sleep or questioning career paths.,S002,Students and professionals,None,English
+20,C003,Career Anxiety,Mental Health,Low,Uncertainty and Stability,Economic shifts layoffs and industry changes create uncertainty and fear about career stability.,S002,Students and professionals,None,English
+20,C004,Career Anxiety,Mental Health,Low,Fear of Wrong Decisions,Many people fear that one wrong career decision may permanently affect their future.,S002,Students and professionals,None,English
+20,C005,Career Anxiety,Mental Health,Low,Comparison Pressure,People compare promotions and career milestones with others which increases anxiety and pressure.,S002,Students and professionals,None,English
+20,C006,Career Anxiety,Mental Health,Low,Burnout and Stress,Chronic stress and burnout can make career decisions feel overwhelming and urgent.,S002,Students and professionals,None,English
+20,C007,Career Anxiety,Mental Health,Low,Managing Career Anxiety,Reflection structure and support can help transform anxiety into useful career information.,S002,Students and professionals,None,English
+20,C003,Career Anxiety,Mental Health,Low,Causes of Career Anxiety,Career anxiety can be caused by new roles workplace disagreements fear of speaking doubts about performance and lack of fulfilment.,S003,Students and professionals,None,English
+20,C004,Career Anxiety,Mental Health,Low,Recognizing Anxiety,Awareness of changes in mood focus and energy is the first step toward improvement.,S003,Students and professionals,None,English
+20,C005,Career Anxiety,Mental Health,Low,Identifying the Source,Understanding the reason behind stress such as unclear expectations or future concerns helps reduce anxiety.,S003,Students and professionals,None,English
+20,C006,Career Anxiety,Mental Health,Low,Building a Plan,Creating solutions learning skills and reassessing goals can help manage career anxiety.,S003,Students and professionals,None,English
+20,C007,Career Anxiety,Mental Health,Low,Healthy Habits and Rest,Healthy routines sleep and organized schedules support mental stability and reduce stress.,S003,Students and professionals,None,English
+20,C008,Career Anxiety,Mental Health,Low,Support and Communication,Talking with trusted people can provide reassurance perspective and emotional relief.,S003,Students and professionals,None,English
+20,C008,Career Anxiety,Mental Health,Low,Managing Stress and Growth,Breaks journaling achievable goals and accepting imperfection can reduce anxiety and support growth.,S003,Students and professionals,None,English
+20,C010,Career Anxiety,Mental Health,Low,Professional Guidance,Professional support may help when anxiety begins affecting work or personal life.,S003,Students and professionals,None,English
+20,C021,Career Anxiety,Mental Health,Low,Career Myths and Anxiety,Students who strongly believe career myths may experience more anxiety about career and major decisions.,S004,Students,None,English
+20,C022,Career Anxiety,Mental Health,Low,Fear of Choosing Wrong Career,Some students fear choosing the wrong major because they believe it will define their career for life.,S004,Students,None,English
+20,C023,Career Anxiety,Mental Health,Low,Detailed Career Guidance,Detailed examples of flexible career paths can help reduce career myths and anxiety.,S004,Students,None,English
+20,C024,Career Anxiety,Mental Health,Low,Non Linear Career Paths,Sharing non linear career journeys helps normalize career changes and reduce anxiety.,S004,Students,None,English
+20,C025,Career Anxiety,Mental Health,Low,Educational Support,Career development resources and psychology education can help students manage career anxiety.,S004,Students,None,English
+20,C001,Career Anxiety,Mental Health,Low,Workplace Pressure,Heavy workloads uncertainty and changing work environments can increase career anxiety.,S005,Students and professionals,None,English
+20,C002,Career Anxiety,Mental Health,Low,Fear of Failure,Employees may worry about making mistakes or failing to meet expectations.,S005,Students and professionals,None,English
+20,C003,Career Anxiety,Mental Health,Low,Uncertain Career Future,Unclear career paths and future instability can create stress and confusion.,S005,Students and professionals,None,English
+20,C004,Career Anxiety,Mental Health,Low,Confidence Building,Recognizing achievements and strengths can improve confidence and reduce anxiety.,S005,Students and professionals,None,English
+20,C005,Career Anxiety,Mental Health,Low,Managing Stress,Healthy routines and time management can help people manage career stress effectively.,S005,Students and professionals,None,English
+20,C006,Career Anxiety,Mental Health,Low,Support Systems,Talking with mentors managers or friends can provide emotional support and guidance.,S005,Students and professionals,None,English
+20,C007,Career Anxiety,Mental Health,Low,Career Flexibility,Accepting that careers may change over time reduces pressure and anxiety.,S005,Students and professionals,None,English
+20,C008,Career Anxiety,Mental Health,Low,Professional Growth,Learning new skills can increase confidence and reduce fear about the future.,S005,Students and professionals,None,English
+20,C009,Career Anxiety,Mental Health,Low,Work Life Balance,Balancing personal life and work responsibilities supports mental well being.,S005,Students and professionals,None,English
+20,C010,Career Anxiety,Mental Health,Low,Seeking Guidance,Professional career counseling can help people manage anxiety and make better decisions.,S005,Students and professionals,None,English
+20,C001,Career Anxiety,Mental Health,High,Future Uncertainty,Uncertainty about career future and job stability can increase emotional stress and anxiety.,S006,Students and professionals,None,English
+20,C002,Career Anxiety,Mental Health,High,Workplace Burnout,Continuous pressure and heavy workloads may lead to emotional exhaustion and burnout.,S006,Students and professionals,None,English
+20,C003,Career Anxiety,Mental Health,High,Fear of Failure,Fear of making mistakes or failing professionally may reduce confidence and increase anxiety.,S006,Students and professionals,None,English
+20,C004,Career Anxiety,Mental Health,High,Job Insecurity,Worry about losing a job may create stress fear and emotional instability.,S006,Students and professionals,None,English
+20,C005,Career Anxiety,Mental Health,High,Sleep and Stress,Career stress and workplace anxiety may negatively affect sleep and mental balance.,S006,Students and professionals,None,English
+20,C006,Career Anxiety,Mental Health,Medium,Comparison Pressure,Comparing career success with others can increase emotional pressure and dissatisfaction.,S006,Students and professionals,None,English
+20,C007,Career Anxiety,Mental Health,Medium,Unrealistic Expectations,Very high career expectations may create disappointment pressure and stress.,S006,Students and professionals,None,English
+20,C008,Career Anxiety,Mental Health,High,Emotional Support,Seeking professional or emotional support may help people manage severe career anxiety.,S006,Students and professionals,None,English
+20,C001,Career Anxiety,Mental Health,Medium,Career Anxiety Definition,Career anxiety involves persistent worry and self doubt related to current jobs and future careers.,S007,Students and professionals,None,English
+20,C002,Career Anxiety,Mental Health,Medium,Job Anxiety Focus,Job anxiety specifically focuses on work related fears and concerns.,S007,Students and professionals,None,English
+20,C003,Career Anxiety,Mental Health,Medium,Workplace Effects,Career anxiety commonly affects work performance and workplace relationships.,S007,Students and professionals,None,English
+20,C004,Career Anxiety,Mental Health,Medium,Job Dissatisfaction,Career anxiety may appear as dissatisfaction with workload responsibilities or work conditions.,S007,Students and professionals,None,English
+20,C005,Career Anxiety,Mental Health,Medium,Expectation Imbalance,Job dissatisfaction often happens because expectations do not match reality.,S007,Students and professionals,None,English
+20,C006,Career Anxiety,Mental Health,High,Productivity Decline,Career anxiety may reduce concentration productivity and work quality.,S007,Students and professionals,None,English
+20,C007,Career Anxiety,Mental Health,Medium,Social Interaction Problems,Career anxiety can negatively affect teamwork communication and workplace relationships.,S007,Students and professionals,None,English
+20,C008,Career Anxiety,Mental Health,Medium,Behavioral Signs,Behavioral signs include absenteeism procrastination and overreacting at work.,S007,Students and professionals,None,English
+20,C009,Career Anxiety,Mental Health,Medium,Career Transitions,Job searching changing careers and entering the workforce may trigger career anxiety.,S007,Students and professionals,None,English
+20,C010,Career Anxiety,Mental Health,High,Toxic Workplace Factors,Bullying chaotic environments and workplace disagreements can increase anxiety.,S007,Students and professionals,None,English
+20,C011,Career Anxiety,Mental Health,High,Management and Workload Pressure,Heavy workloads unclear expectations and poor management may cause job anxiety.,S007,Students and professionals,None,English
+20,C012,Career Anxiety,Mental Health,Low,Support Networks,Family friends mentors and peers can provide emotional support and reduce anxiety.,S007,Students and professionals,None,English
+20,C013,Career Anxiety,Mental Health,Low,Talking to Co Workers,Co workers can provide support understanding and shared experiences about workplace stress.,S007,Students and professionals,None,English
+20,C014,Career Anxiety,Mental Health,Low,Asking for Help,Accepting help reduces stress improves teamwork and builds trust.,S007,Students and professionals,None,English
+20,C015,Career Anxiety,Mental Health,Low,Career Goals and Dream Jobs,Realistic career goals and balanced expectations can reduce anxiety and pressure.,S007,Students and professionals,None,English
+20,C001,Career Anxiety,Mental Health,Low,Career Path Confusion,Many graduates do not immediately know their exact career path and often explore careers through experience.,S008,Students,None,English
+20,C002,Career Anxiety,Mental Health,Low,Learning From Jobs,Even unwanted jobs can help people understand their interests skills and future goals.,S008,Students,None,English
+20,C003,Career Anxiety,Mental Health,Low,Skills and Interests,Combining skills experiences and interests helps people choose suitable career paths.,S008,Students,None,English
+20,C004,Career Anxiety,Mental Health,Low,Career Guidance,Teachers mentors and advisers can provide career advice and professional guidance.,S008,Students,None,English
+20,C005,Career Anxiety,Mental Health,Low,Online Counseling,Online career counseling provides convenient and accessible support for career decisions.,S008,Students,None,English
+20,C006,Career Anxiety,Mental Health,Low,Small Career Goals,Breaking long term goals into smaller steps helps reduce stress and anxiety.,S008,Students,None,English
+20,C007,Career Anxiety,Mental Health,Low,Realistic Progress,Small practical actions help people progress toward larger career goals.,S008,Students,None,English
+20,C008,Career Anxiety,Mental Health,Low,Handling Rejection,Career setbacks and rejections should be viewed as normal learning experiences.,S008,Students,None,English
+20,C009,Career Anxiety,Mental Health,Low,Interview Feedback,Professional feedback helps people improve and develop confidence.,S008,Students,None,English
+20,C010,Career Anxiety,Mental Health,Low,Accepting Criticism,Ignoring criticism may prevent personal and professional growth.,S008,Students,None,English
+20,C011,Career Anxiety,Mental Health,Low,Support Networks,Family friends coworkers counselors and online communities can provide emotional support.,S008,Students,None,English
+20,C012,Career Anxiety,Mental Health,Low,Sharing Fears,Talking with trusted people helps reduce stress and emotional pressure.,S008,Students,None,English
+20,C013,Career Anxiety,Mental Health,Low,Celebrating Achievements,Recognizing personal achievements boosts confidence and motivation.,S008,Students,None,English
+20,C014,Career Anxiety,Mental Health,Low,Social Media Pressure,Comparing careers on social media may increase anxiety and peer pressure.,S008,Students,None,English
+20,C015,Career Anxiety,Mental Health,Low,Professional Platforms,LinkedIn provides professional networking and realistic career information.,S008,Students,None,English
